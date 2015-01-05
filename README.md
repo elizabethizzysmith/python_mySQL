@@ -26,5 +26,5 @@ Screenshot of IPython Notebook:
 
 #### License
 
-Licensed under the [Apache Licence, Version 2](http://www.apache.org/licenses/LICENSE-2.0) -- see 'LICENSE.txt'
+Licensed under the [Apache Licence, Version 2](http://www.apache.org/licenses/LICENSE-2.0) -- see 'Apache2_License.txt'
 
