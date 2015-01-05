@@ -3,8 +3,6 @@ python_mySQL
 
 Pull data from a Table stored in a [MySQL database](http://mysql.com/products/workbench/) into a [pandas](http://pandas.pydata.org/) dataframe object within the [IPython](http://ipython.org/) environment. 
 
-**Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php)
-
 
 #### How To:
 
@@ -24,3 +22,8 @@ Local directory to save Dataframe: `cd /Users/elizabethasmith/Desktop/sql`
 Screenshot of IPython Notebook:
 
 ![Screenshot of IPython Notebook](https://github.com/elizabethizzysmith/python_mySQL/blob/master/ScreenShot.png)
+
+
+
+**Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php) -- see 'license.txt'
+
