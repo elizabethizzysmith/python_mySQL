@@ -10,9 +10,13 @@ If you are looking to pull data from a Table stored in a [MySQL database](http:/
 
 
 
-1. Install the following dependencies (python modules), which are packaged together in the [Enthought Python Distribtuion](https://www.enthought.com/products/canopy/): `pandas`, `pymysql`, `sys`, `numpy`, `datetime`, `os`
+1. Install the following dependencies (python modules), which are packaged together in the [Enthought Python Distribtuion](https://www.enthought.com/products/canopy/): `pandas`, `pymysql`, `sys`, `numpy`, `datetime`, `os`.
+ 
 
-2. Specify details about the MySQL Database and Data Table you wish to connect with:
+2. Specify details about the MySQL Database, the Schema and Datatable you wish to connect with, and a local directory you wish to save a local copy to:
 
-Ex: MySQL instance = `localhost: 3306`, `user = root`, `passwd = ' '` 
-    Table
+#####Example: 
+
+MySQL instance = `localhost: 3306`, `user = root`, `passwd = ' '` 
+Schema = `SXT_datamatrix`, Table = `Mouse_Cells_ALL`
+Local directory to save Dataframe: `cd /Users/elizabethasmith/Desktop/sql`
