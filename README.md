@@ -24,6 +24,7 @@ Screenshot of IPython Notebook:
 ![Screenshot of IPython Notebook](https://github.com/elizabethizzysmith/python_mySQL/blob/master/ScreenShot.png)
 
 
+#####License
 
-**Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php) -- see 'license.txt'
+Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php) -- see 'LICENSE.txt'
 
