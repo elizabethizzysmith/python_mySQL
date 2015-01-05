@@ -1,14 +1,12 @@
 python_mySQL
 ============
 
-January 2015
+Pull data from a Table stored in a [MySQL database](http://mysql.com/products/workbench/) into a [pandas](http://pandas.pydata.org/) dataframe object within the [IPython](http://ipython.org/) environment. 
 
-If you are looking to pull data from a Table stored in a [MySQL database](http://mysql.com/products/workbench/) into a [pandas](http://pandas.pydata.org/) dataframe object within the [IPython](http://ipython.org/) environment, you might be interested in using this `getSQLdata.py` script & associated IPython notebook. 
+**Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php)
 
 
 #### How To:
-
-
 
 1. Install the following dependencies (python modules), which are packaged together in the [Enthought Python Distribtuion](https://www.enthought.com/products/canopy/): `pandas`, `pymysql`, `sys`, `numpy`, `datetime`, `os`.
  
