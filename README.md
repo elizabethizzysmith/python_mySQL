@@ -17,12 +17,12 @@ If you are looking to pull data from a Table stored in a [MySQL database](http:/
 
 #####Example: 
 
-######MySQL instance = `localhost: 3306`, `user = root`, `passwd = ' '` 
+MySQL instance = `localhost: 3306`, `user = root`, `passwd = ' '` 
 
-######Schema = `SXT_datamatrix`, Table = `Mouse_Cells_ALL`
+Schema = `SXT_datamatrix`, Table = `Mouse_Cells_ALL`
 
-######Local directory to save Dataframe: `cd /Users/elizabethasmith/Desktop/sql`
+Local directory to save Dataframe: `cd /Users/elizabethasmith/Desktop/sql`
 
-######Screenshot of IPython Notebook
+Screenshot of IPython Notebook:
 
 ![Screenshot of IPython Notebook](https://github.com/elizabethizzysmith/python_mySQL/blob/master/ScreenShot.png)
